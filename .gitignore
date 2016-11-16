@@ -14,7 +14,7 @@ npm-debug.log
 .sass-cache
 node_modules
 *.map
-/docs
+#docs
 tmp
 reports
 
